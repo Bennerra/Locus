@@ -913,4 +913,11 @@ body {
     .testimonial {
         margin-bottom: 80px;
     }
+    .rewiew-article {
+        font-weight: 500;
+        font-size: 20px;
+    }
+    .project__text {
+        margin-bottom: 60px;
+    }
 }
