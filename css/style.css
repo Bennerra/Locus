@@ -305,6 +305,7 @@ body {
 }
 .project__text {
     margin: 0 auto;
+    margin-bottom: 150px;
 }
 .project__title {
     text-align: center;
